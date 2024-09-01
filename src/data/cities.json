@@ -49,18 +49,6 @@
       "id": "98443198"
     },
     {
-      "id": "7378",
-      "cityName": "Istanbul",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2024-08-02T08:12:35.743Z",
-      "notes": "our home",
-      "position": {
-        "lat": 40.97111473497832,
-        "lng": 29.126654863357547
-      }
-    },
-    {
       "id": "6e22",
       "cityName": "Leifear",
       "country": "Ireland",
