@@ -8,8 +8,9 @@
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "noEmit": true,
-    "baseUrl": ".",
+    //"noEmit": true,
+    "baseUrl": "./",
+    "outDir": "./dist",
     "paths": {
       "*": [
         "node_modules/*",

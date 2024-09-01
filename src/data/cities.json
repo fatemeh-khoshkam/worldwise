@@ -61,27 +61,27 @@
       }
     },
     {
-      "id": "928f",
-      "cityName": "Istanbul",
-      "country": "Turkiye",
-      "emoji": "🇹🇷",
-      "date": "2024-08-02T08:12:55.006Z",
-      "notes": "sdg",
+      "id": "6e22",
+      "cityName": "Leifear",
+      "country": "Ireland",
+      "emoji": "🇮🇪",
+      "date": "2024-09-01T10:34:39.889Z",
+      "notes": "s",
       "position": {
-        "lat": 40.97033379160321,
-        "lng": 29.130678176879886
+        "lat": 54.75156160260557,
+        "lng": -7.932128906250001
       }
     },
     {
-      "id": "528b",
-      "cityName": "Hampstead Norreys",
+      "id": "3d7a",
+      "cityName": "Fort William",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
       "emoji": "🇬🇧",
-      "date": "2024-08-04T16:27:58.045Z",
-      "notes": "",
+      "date": "2024-09-01T10:34:46.564Z",
+      "notes": "sadf",
       "position": {
-        "lat": 51.48822432632349,
-        "lng": -1.2799072265625002
+        "lat": 56.72992050729397,
+        "lng": -5.756835937500001
       }
     }
   ]
